@@ -7,3 +7,4 @@ Input:
 Result: 2 (your math operation) 3 = result
 And so every time until a letter 'Q' is entered
 
+Create tests for checks that all works is correct. (tests for all math operations)
