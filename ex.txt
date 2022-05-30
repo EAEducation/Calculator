@@ -1,0 +1,9 @@
+You need to make a calculator that will to do some kind of computational operations on an ongoing basis.
+For example:
+Input:
+    First number: 2
+    Second number: 3
+    Math operations: (+, /... etc.)
+Result: 2 (your math operation) 3 = result
+And so every time until a letter 'Q' is entered
+
